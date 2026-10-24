@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, ben İrem.
 
-<!--
-**iremakkinn/iremakkinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nevşehir Hacı Bektaş Veli Üniversitesi'nde **Bilgisayar Mühendisliği 1. sınıf** öğrencisiyim.
 
-Here are some ideas to get you started:
+## Şu an ne yapıyorum?
+- C programlama dilini öğreniyorum
+- Konsol tabanlı küçük projeler geliştiriyorum
+- Algoritma ve problem çözme üzerine çalışıyorum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hedefim
+Dönem sonunda **gönüllü staj** yaparak yazılım geliştirmeyi gerçek projelerde öğrenmek istiyorum.
+
+## İletişim
+- E-posta: iremakkinn@gmail.com
+- Linkedln: www.linkedin.com/in/iremakinn123
